@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blackbox210
+- 👋 Hi, I’m Snowden Jr
 - 👀 I’m interested in whitesuit hacking
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on Software
